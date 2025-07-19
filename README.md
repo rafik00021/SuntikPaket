@@ -16,3 +16,18 @@ Apabila kita mengikuti syarat dan ketentuan paket tersebut makan kita hanya bisa
 * Dan yang terahir file configurasi untuk aplikasi SuntikPaket.
 ***
 Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah Dark Tunnel,tapi kalo untuk fleksibilitas yang paling cocok untuk berbagai merk HP adalah HTTP Custom (saya sarankan pilih HTTP Custom).
+## Screenshot
+<div align="center">
+<img src="./ss/5.jpg" width="275px"><img src="./ss/6.jpg" width="275px">
+</div>
+***
+
+
+
+
+
+
+
+
+
+
