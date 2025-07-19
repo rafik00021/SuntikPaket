@@ -1,4 +1,4 @@
- # SuntikPaket
+ <p class="center"> # SuntikPaket </p>
 SuntikPaket adalah bagaimana cara nya agar kita bisa menggunakan paket data tanpa mengikuti syarat dan ketentuan provider.
 
 Dari sekian banyak provider, untuk saat ini saya merekomendasikan simcard XL, kenapa? karna XL banyak menawarkan paket unlimited ,seperti unlimited Instagram,Whatsapp,Tiktok,Vidio,Facebook dll.
