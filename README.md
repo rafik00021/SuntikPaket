@@ -11,8 +11,8 @@ Dari sekian banyak provider, untuk saat ini saya merekomendasikan simcard XL, ke
 Apabila kita mengikuti syarat dan ketentuan paket tersebut makan kita hanya bisa menggunakan kuota untuk aplikasi yang tertera. Nah tujuan dari SuntikPaket ini adalah bagaimana cara nya agar paket tersebut bisa di gunakan untuk semua aplikasi atau web layaknya kuota reguler. 
 ## Persiapan
 * Hal pertama yang harus kita miliki adalah Simcard (saya rekomendasikan XL).
-* Paket data yang di beli, untuk paket data saya sarankan membeli paket bulanan.
-* Dan aplikasi untuk SuntikPaket banayak tersedia di playtore seeperti HTTP Custom,Dark Tunnel,Net Mod dll.
+* Paket data yang di beli, untuk paket data saya sarankan membeli paket unlimited bulanan.
+* Aplikasi untuk SuntikPaket banyak tersedia di playtore seeperti HTTP Custom,Dark Tunnel,Net Mod dll.
 * Dan yang terahir file configurasi untuk aplikasi SuntikPaket.
 ***
 Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah Dark Tunnel,tapi kalo untuk fleksibilitas yang paling cocok untuk berbagai merk HP adalah HTTP Custom (saya sarankan pilih HTTP Custom).
@@ -20,8 +20,9 @@ Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah 
 <div align="center">
 <img src="./ss/5.jpg" width="275px"><img src="./ss/6.jpg" width="275px">
 </div>
-***
 
+***
+bvb
 
 
 
