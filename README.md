@@ -26,6 +26,10 @@ Untuk cara penggunaan HTTP Custom silahkan buka link di bawah
 
 [Open Youtube](https://youtube.com/shorts/i4cH9ZSFHBA?si=1yWoyn1rl-2Zts7f)
 
+***
+## Kelebihan paket
+* Harga jauh lebih Murah
+
 
 
 
