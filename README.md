@@ -8,7 +8,7 @@ Dari sekian banyak provider, untuk saat ini saya merekomendasikan simcard XL, ke
 </div>
 
 ***
-Apabila kita mengikuti syarat dan ketentuan paket tersebut makan kita hanya bisa menggunakan kuota untuk aplikasi yang tertera. Nah tujuan dari SuntikPaket ini adalah bagaimana cara nya agar paket tersebut bisa di gunakan untuk semua aplikasi atau web layaknya kuota reguler. 
+Apabila kita mengikuti syarat dan ketentuan paket tersebut maka kita hanya bisa menggunakan kuota untuk aplikasi yang tertera. Nah tujuan dari SuntikPaket ini adalah bagaimana cara nya agar paket tersebut bisa di gunakan untuk semua aplikasi atau web layaknya kuota reguler. 
 ## Persiapan
 * Hal pertama yang harus kita miliki adalah Simcard (saya rekomendasikan XL).
 * Paket data yang di beli, untuk paket data saya sarankan membeli paket unlimited bulanan.
