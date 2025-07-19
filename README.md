@@ -15,7 +15,7 @@ Apabila kita mengikuti syarat dan ketentuan paket tersebut makan kita hanya bisa
 * Aplikasi untuk SuntikPaket banyak tersedia di playtore seeperti [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom),[Dark Tunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app),Net Mod dll.
 * Dan yang terahir file configurasi untuk aplikasi SuntikPaket.
 ***
-Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah Dark Tunnel,tapi kalo untuk fleksibilitas yang paling cocok untuk berbagai merk HP adalah HTTP Custom (saya sarankan pilih HTTP Custom).
+Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah Dark Tunnel,tapi kalo untuk fleksibilitas yang paling cocok untuk berbagai merk HP adalah HTTP Custom (saya sarankan pilih [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom)).
 ## Screenshot
 <div align="center">
 <img src="./ss/5.jpg" width="275px"><img src="./ss/6.jpg" width="275px">
