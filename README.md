@@ -31,7 +31,7 @@ Untuk cara penggunaan HTTP Custom silahkan buka link di bawah
 ## Kelebihan paket
 * Harga jauh lebih Murah.
 * Support Hostpot dari android ke android ,atau dari android ke Leptop/pc.
-* Kecepatan paket data mendekati paket reguler(paket biasa).
+* Kecepatan paket data mendekati paket reguler (paket biasa).
 ***
 ## Kekurangan Paket
 * Harus selalu mengggunakan bantuan aplikasi agar terhubung ke internet seperti [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom).
