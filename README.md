@@ -13,7 +13,7 @@ Apabila kita mengikuti syarat dan ketentuan paket tersebut maka kita hanya bisa 
 * Hal pertama yang harus kita miliki adalah Simcard (saya rekomendasikan XL).
 * Paket data yang di beli, untuk paket data saya sarankan membeli paket unlimited bulanan Beli Di [SuntikPaket](https://t.me/SuntikPaket) Di jamin murah cuma 40k perbulan.
 * Aplikasi untuk SuntikPaket banyak tersedia di playtore seeperti [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom),[Dark Tunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app),Net Mod dll.
-* Dan yang terakhir file configurasi (biasanya ukuran file kurang dari 5kb) untuk aplikasi SuntikPaket beli di [SuntikPaket](https://t.me/SuntikPaket) (Harga 40k di atas sudah termasuk konfigurasi file).
+* Dan yang terakhir file configurasi (biasanya ukuran file kurang dari 5kb) untuk aplikasi SuntikPaket beli di [SuntikPaket](https://t.me/SuntikPaket) .
 ***
 Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah Dark Tunnel,tapi kalo untuk fleksibilitas yang paling cocok untuk berbagai merk HP adalah HTTP Custom (saya sarankan pilih [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom)).
 ## Screenshot
