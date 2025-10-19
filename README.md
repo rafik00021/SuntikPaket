@@ -22,15 +22,21 @@ Untuk pilihan aplikasi SuntikPaket dari sekian banyak yang paling ringan adalah 
 </div>
 
 ***
-## Cara Penggunaan simple
+## Cara Penggunaan (simple)
 Untuk cara penggunaan HTTP Custom silahkan buka link di bawah
 
 [Open Youtube](https://youtube.com/shorts/i4cH9ZSFHBA?si=1yWoyn1rl-2Zts7f)
 
 ***
 ## Kelebihan paket
-* Harga jauh lebih Murah
-* Support Hostpot dari android ke android ,atau dari android ke Leptop/pc 
+* Harga jauh lebih Murah.
+* Support Hostpot dari android ke android ,atau dari android ke Leptop/pc.
+* Kecepatan paket data mendekati paket reguler(paket biasa).
+***
+## Kekurangan Paket
+* Harus selalu mengggunakan bantuan aplikasi agar terhubung ke internet seperti [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom).
+* Ada kemungkinan paket internet Unofficial yang di beli akan di suspend (DI NONAKTIFKAN) oleh provider, berbeda dengan paket data official (dari myxl) di pastikan aman,dan ini di luar kendali admin (tidak bisa di perbaiki).
+* Ada kendala tak terduga di file configurasi di sebabkan bug paket yang mati, atau server vps yang gangguan sehingga keduanya menyebabkan [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) tidak dapat terhubung ke internet,ini masih dalam kendali admin (bisa di perbaiki).
 
 
 
