@@ -35,7 +35,7 @@ Untuk cara penggunaan HTTP Custom silahkan buka link di bawah
 ***
 ## Kekurangan Paket
 * Harus selalu mengggunakan bantuan aplikasi agar terhubung ke internet seperti [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom).
-* Ada kemungkinan paket internet Unofficial yang di beli akan di suspend (DI NONAKTIFKAN) oleh provider, berbeda dengan paket data official (dari myxl) di pastikan aman,dan ini di luar kendali admin (tidak bisa di perbaiki).
+* Ada kemungkinan paket internet Unofficial yang di beli akan di suspend (DI NONAKTIFKAN) oleh provider sehingga tidak dapat di gunakan, berbeda dengan paket data official (dari myxl) di pastikan aman,dan ini di luar kendali admin (tidak bisa di perbaiki).
 * Ada kendala tak terduga di file configurasi di sebabkan bug paket yang mati, atau server vps yang gangguan sehingga keduanya menyebabkan [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) tidak dapat terhubung ke internet,ini masih dalam kendali admin (bisa di perbaiki).
 
 
