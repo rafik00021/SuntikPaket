@@ -30,7 +30,7 @@ Untuk cara penggunaan HTTP Custom silahkan buka link di bawah
 ***
 ## Kelebihan paket
 * Harga jauh lebih Murah.
-* Support Hostpot dari android ke android ,atau dari android ke Leptop/pc.
+* Support Hostpot dari android ke android ,atau dari android ke Leptop/pc [BUKA TUTORIAL](https://github.com/rafik00021/Setting-Hospot-SuntikPaket).
 * Kecepatan paket data mendekati paket reguler (paket biasa).
 ***
 ## Kekurangan Paket
